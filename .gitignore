@@ -9,7 +9,7 @@ tdg/
 
 # Database
 db.sqlite3
-
+superusers
 
 # Static folder at project root
 /static/
